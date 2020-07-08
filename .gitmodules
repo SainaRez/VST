@@ -1,0 +1,3 @@
+[submodule "vuforia-spatial-edge-server"]
+	path = vuforia-spatial-edge-server
+	url = https://github.com/SainaRez/vuforia-spatial-edge-server.git
